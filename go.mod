@@ -1,5 +1,6 @@
 module github.com/davron112/krakend-cobra/v2
 
+
 go 1.17
 
 require (
