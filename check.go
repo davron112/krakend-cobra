@@ -10,14 +10,13 @@ import (
 	"time"
 
 	"github.com/davron112/krakend-cobra/v2/dumper"
-
 	"github.com/davron112/lura/v2/config"
 	"github.com/davron112/lura/v2/core"
 	"github.com/davron112/lura/v2/logging"
 	"github.com/davron112/lura/v2/proxy"
 	krakendgin "github.com/davron112/lura/v2/router/gin"
-
 	"github.com/gin-gonic/gin"
+	"github.com/santhosh-tekuri/jsonschema/v5"
 	_ "github.com/santhosh-tekuri/jsonschema/v5/httploader"
 	"github.com/spf13/cobra"
 )

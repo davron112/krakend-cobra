@@ -4,7 +4,7 @@ import (
 	"net/http"
 	"sort"
 
-	"github.com/davron112/lura/v2/config"
+	"github.com/luraproject/lura/v2/config"
 	"github.com/spf13/cobra"
 )
 
