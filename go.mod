@@ -5,9 +5,9 @@ go 1.17
 
 require (
 	github.com/gin-gonic/gin v1.8.2
-	github.com/davron112/krakend-audit v0.0.1
+	github.com/davron112/krakend-audit v0.0.6
 	github.com/davron112/krakend-viper/v2 v2.0.1
-	github.com/davron112/lura/v2 v2.2.3
+	github.com/davron112/lura/v2 v2.5.0
 	github.com/mattn/go-isatty v0.0.17
 	github.com/santhosh-tekuri/jsonschema/v5 v5.0.0
 	github.com/spf13/cobra v0.0.5
@@ -88,7 +88,7 @@ require (
 	github.com/jmespath/go-jmespath v0.4.0 // indirect
 	github.com/json-iterator/go v1.1.12 // indirect
 	github.com/juju/ratelimit v1.0.1 // indirect
-	github.com/davron112/bloomfilter/v2 v2.0.4 // indirect
+	github.com/davron112/bloomfilter/v2 v2.0.6 // indirect
 	github.com/davron112/flatmap v1.1.1 // indirect
 	github.com/davron112/krakend-botdetector/v2 v2.0.3 // indirect
 	github.com/davron112/krakend-circuitbreaker/v2 v2.0.1 // indirect
@@ -97,7 +97,7 @@ require (
 	github.com/davron112/krakend-gologging/v2 v2.0.3 // indirect
 	github.com/davron112/krakend-httpsecure/v2 v2.0.1 // indirect
 	github.com/davron112/krakend-jose/v2 v2.0.5 // indirect
-	github.com/davron112/krakend-logstash/v2 v2.0.1 // indirect
+	github.com/davron112/krakend-logstash/v2 v2.0.3 // indirect
 	github.com/davron112/krakend-metrics/v2 v2.0.1 // indirect
 	github.com/davron112/krakend-opencensus/v2 v2.0.1 // indirect
 	github.com/davron112/krakend-ratelimit/v2 v2.0.4 // indirect
